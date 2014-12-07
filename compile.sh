@@ -6,6 +6,6 @@ if [ -f Main.class ]; then
 fi
 
 echo "Compiling with: "
-echo `java -version`
+echo `javac -version`
 
 javac Main.java
