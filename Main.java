@@ -11,7 +11,7 @@ public class Main {
 
 		while (true) {
 			blobs.add(loadFile());
-			if (++count % 50 == 0) {
+			if (++count % 100 == 0) {
 				printStatistics();
 			}
 		}
