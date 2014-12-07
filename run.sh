@@ -3,4 +3,4 @@
 echo "Running with"
 echo `java -version`
 
-java -Xms16g Main
+java -Xms32g Main
