@@ -1,3 +1,6 @@
 #!/usr/bin/env bash
 
-java -Xms8g Main
+echo "Running with"
+echo `java -version`
+
+java -Xms16g Main
