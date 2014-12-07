@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-java -Xms4g Main
+java -Xms1g Main
